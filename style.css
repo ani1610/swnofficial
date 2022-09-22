@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    
+}
+
+li a{
+    text-decoration: none;
+    list-style-type: none;
+}
+#brand A {
+    color: rgb(255, 255, 255);
+}
+#nav-link a{
+
+    color: rgb(255, 255, 255);
+}
+.content_para {
+    color: aqua;
+}
+.content_para b{
+    color: aqua;
+}
+#content_img img{
+    border-color: 10px solid red;
+    border-radius: 2%;
+}
+#content p,h4{
+    color: white;
+}
+#content p a{
+    color: white;
+    text-decoration: none;
+}
+#btn1 a{
+    text-decoration: none;
+
+}
+#btn11 a{
+    text-decoration: none;
+
+}
+
+
+/* FOOTR SECTION  */
+#footer{
+    background-color:rgba(0, 0, 0, 0.877);
+}
+
+h6{
+    color: aqua;
+}
+.footer_para{
+    color: white;
+}
+li a{
+    color: white;
+}
+.links li a i{
+    color: rgb(183, 27, 27);
+}
+span a{
+    color: white;
+}
+.bottom{
+    text-align: center;
+    justify-content: center;
+}
+.bottom span a i{
+    justify-content: space-between;
+}
